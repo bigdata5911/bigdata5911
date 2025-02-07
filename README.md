@@ -1,10 +1,10 @@
 🐣 Please visit our organization [Github Org](https://github.com/cycle-sync-ai) <br />
 🔥 Please join our discord server [Discord](https://discord.gg/TawJX4ue) <br />
 
-### AI & ML
+#### AI & ML
 https://github.com/cycle-sync-ai/student-score-analysis
 
-### 🤖 AI Agent
+#### 🤖 AI Agent
 https://github.com/cycle-sync-ai/ai-agent-with-crewai
 https://github.com/cycle-sync-ai/hotel-guest-engagement-ai-agent
 https://github.com/cycle-sync-ai/customer-support-ai-agent
@@ -13,15 +13,15 @@ https://github.com/cycle-sync-ai/floz-ai-frontend
 https://github.com/cycle-sync-ai/floz-ai-backend
 https://github.com/cycle-sync-ai/ai-agent-architecture
 
-### 🪛 Scraper
+#### 🪛 Scraper
 https://github.com/cycle-sync-ai/dexscreener-top-trader-scraper
 https://github.com/cycle-sync-ai/patreon-video-scrapper
 https://github.com/cycle-sync-ai/scrappers
 https://github.com/cycle-sync-ai/youtube-video-scraper-backend
 
-### 👻 Bot
+#### 👻 Bot
 https://github.com/cycle-sync-ai/discord-bot-frontend
 https://github.com/cycle-sync-ai/discord-bot-backend
 
-### Google API
+#### Google API
 https://github.com/cycle-sync-ai/distance-matrix-between-addresses
