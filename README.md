@@ -1,5 +1,7 @@
-🐣 Please visit our organization [Github Org](https://github.com/cycle-sync-ai) <br />
-🔥 Please join our discord server [Discord](https://discord.gg/TawJX4ue) <br />
+👻 Please follow me for new updates [Dev.to](https://dev.to/cyclesync-ai) | [Github](https://github.com/bigdata5911) | [Github Org](https://github.com/cycle-sync-ai) <br />
+😉 Please join our discord server [Discord](https://discord.gg/TawJX4ue) <br />
+💫 Please have an interesting relationship with me [Telegram](https://t.me/bigdata5911) | [Email](mailto:worker.opentext@gmail.com) <br />
+
 
 #### AI & ML
 https://github.com/cycle-sync-ai/student-score-analysis <br />
