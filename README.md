@@ -4,6 +4,7 @@
 
 
 #### AI & ML
+https://github.com/cycle-sync-ai/bilateral-reference-net-colab <br />
 https://github.com/cycle-sync-ai/student-score-analysis <br />
 
 #### 🤖 AI Agent
