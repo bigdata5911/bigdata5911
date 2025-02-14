@@ -25,6 +25,10 @@ https://github.com/cycle-sync-ai/scrappers <br />
 https://github.com/cycle-sync-ai/youtube-video-scraper-backend <br />
 
 #### 👻 Bot
+https://github.com/cycle-sync-ai/d2t-message-forwarder
+https://github.com/cycle-sync-ai/d2t-ca-bot-node
+https://github.com/cycle-sync-ai/muti-discord-account-monitor
+https://github.com/cycle-sync-ai/d2d-msg-forward
 https://github.com/cycle-sync-ai/discord-bot-frontend <br />
 https://github.com/cycle-sync-ai/discord-bot-backend <br />
 
