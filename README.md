@@ -2,10 +2,10 @@
 😉 Please join our discord server [Discord](https://discord.gg/TawJX4ue) <br />
 💫 Please have an interesting relationship with me [Telegram](https://t.me/bigdata5911) | [Email](mailto:worker.opentext@gmail.com) <br />
 
-#### Workflow
+#### 🏢 Workflow
 https://github.com/cycle-sync-ai/ai-logistics-platform-workflow/blob/main/README.md <br />
 
-#### AI & ML
+#### 🅰️ AI & ML
 https://github.com/cycle-sync-ai/deep-learning-project-directory-structure <br />
 https://github.com/cycle-sync-ai/bilateral-reference-net-colab <br />
 https://github.com/cycle-sync-ai/student-score-analysis <br />
