@@ -20,6 +20,9 @@ https://github.com/cycle-sync-ai/floz-ai-frontend <br />
 https://github.com/cycle-sync-ai/floz-ai-backend <br />
 https://github.com/cycle-sync-ai/ai-agent-architecture <br />
 
+#### MCP Server
+https://github.com/cycle-sync-ai/outlook-mcp-server <br />
+
 #### 🪛 Scraper
 https://github.com/cycle-sync-ai/dexscreener-top-trader-scraper <br />
 https://github.com/cycle-sync-ai/patreon-video-scrapper <br />
