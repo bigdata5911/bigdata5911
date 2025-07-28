@@ -28,6 +28,7 @@ https://github.com/cycle-sync-ai/outlook-mcp-server <br />
 https://github.com/cycle-sync-ai/dexscreener-top-trader-scraper <br />
 https://github.com/cycle-sync-ai/scrappers <br />
 https://github.com/cycle-sync-ai/youtube-video-scraper-backend <br />
+https://github.com/bigdata5911/etsy-scrapper <br />
 
 #### 👻 Bot
 https://github.com/cycle-sync-ai/cyclesyncai-ai-news-dbot <br />
