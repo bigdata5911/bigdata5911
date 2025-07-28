@@ -11,6 +11,7 @@ https://github.com/cycle-sync-ai/bilateral-reference-net-colab <br />
 https://github.com/cycle-sync-ai/student-score-analysis <br />
 
 #### 🤖 AI Agent
+https://github.com/bigdata5911/doc-retrieval-agent <br />
 https://github.com/cycle-sync-ai/ai-agent-with-crewai <br />
 https://github.com/cycle-sync-ai/hotel-guest-engagement-ai-agent <br />
 https://github.com/cycle-sync-ai/customer-support-ai-agent <br />
