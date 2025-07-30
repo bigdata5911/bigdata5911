@@ -13,8 +13,9 @@ https://github.com/cycle-sync-ai/student-score-analysis <br />
 #### 🤖 AI Agent
 https://github.com/bigdata5911/doc-retrieval-agent <br />
 https://github.com/bigdata5911/mail-tracking-agent <br />
+https://github.com/bigdata5911/AI-Chatbot-for-Lawyer.git
 https://github.com/bigdata5911/livekit-voice-ai-agent <br />
-git@github.com:bigdata5911/AI-Agent-for-Telephony-voice-bot.git <br />
+https://github.com/bigdata5911/AI-Agent-for-Telephony-voice-bot.git <br />
 https://github.com/cycle-sync-ai/ai-agent-with-crewai <br />
 https://github.com/cycle-sync-ai/hotel-guest-engagement-ai-agent <br />
 https://github.com/cycle-sync-ai/customer-support-ai-agent <br />
