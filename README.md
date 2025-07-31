@@ -11,6 +11,7 @@ https://github.com/cycle-sync-ai/bilateral-reference-net-colab <br />
 https://github.com/cycle-sync-ai/student-score-analysis <br />
 
 #### 🤖 AI Agent
+https://github.com/bigdata5911/Healthcare-Agent <br />
 https://github.com/bigdata5911/AI-Lawyer---RAG-with-DeepSeek-R1 <br />
 https://github.com/bigdata5911/doc-retrieval-agent <br />
 https://github.com/bigdata5911/mail-tracking-agent <br />
