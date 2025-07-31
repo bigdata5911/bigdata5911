@@ -34,6 +34,8 @@ https://github.com/cycle-sync-ai/cyclesyncai-voice-agent <br />
 https://github.com/cycle-sync-ai/outlook-mcp-server <br />
 
 #### 🪛 Scraper
+
+https://github.com/bigdata5911/Jobsite-Scraper-and-Analyzer <br />
 https://github.com/bigdata5911/Dropshipping-Product-Scraping <br />
 https://github.com/cycle-sync-ai/dexscreener-top-trader-scraper <br />
 https://github.com/cycle-sync-ai/scrappers <br />
