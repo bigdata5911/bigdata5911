@@ -14,6 +14,7 @@ https://github.com/cycle-sync-ai/student-score-analysis <br />
 https://github.com/bigdata5911/AI-Lawyer---RAG-with-DeepSeek-R1 <br />
 https://github.com/bigdata5911/doc-retrieval-agent <br />
 https://github.com/bigdata5911/mail-tracking-agent <br />
+https://github.com/bigdata5911/Dropshipping-Product-Scraping <br />
 https://github.com/bigdata5911/DeepSeek-R1-Voice-Agent <br />
 https://github.com/bigdata5911/AI-Chatbot-for-Lawyer <br />
 https://github.com/bigdata5911/livekit-voice-ai-agent <br />
