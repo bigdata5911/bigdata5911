@@ -15,6 +15,7 @@ https://github.com/bigdata5911/Meeting-Room-Booking-AI-Agent <br />
 https://github.com/bigdata5911/Healthcare-AI-Voice-agent <br />
 https://github.com/bigdata5911/Healthcare-Agent <br />
 https://github.com/bigdata5911/AI-Lawyer---RAG-with-DeepSeek-R1 <br />
+https://github.com/bigdata5911/Message-Auto-Forwarding-AI-Agent <br />
 https://github.com/bigdata5911/doc-retrieval-agent <br />
 https://github.com/bigdata5911/mail-tracking-agent <br />
 https://github.com/bigdata5911/DeepSeek-R1-Voice-Agent <br />
