@@ -1,5 +1,4 @@
-👻 Please follow me for new updates [Github](https://github.com/bigdata5911) | [Github Org](https://github.com/cycle-sync-ai) <br />
-😉 Please join our discord server [Discord](https://discord.gg/pSEtb9sJf6) <br />
+👻 Please follow me for new updates [Github](https://github.com/bigdata5911) <br />
 💫 Please have an interesting relationship with me [Telegram](https://t.me/bigdata5911) | [Email](mailto:worker.opentext@gmail.com) <br />
 
 #### 🏢 Workflow
