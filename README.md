@@ -10,6 +10,7 @@ https://github.com/cycle-sync-ai/bilateral-reference-net-colab <br />
 https://github.com/cycle-sync-ai/student-score-analysis <br />
 
 #### 🤖 AI Agent
+https://github.com/bigdata5911/agent-lightning-automatic-prompt-optimization <br />
 https://github.com/bigdata5911/sales-agent <br />
 https://github.com/bigdata5911/Meeting-Room-Booking-AI-Agent <br />
 https://github.com/bigdata5911/Healthcare-AI-Voice-agent <br />
