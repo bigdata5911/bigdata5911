@@ -10,6 +10,10 @@ https://github.com/cycle-sync-ai/bilateral-reference-net-colab <br />
 https://github.com/cycle-sync-ai/student-score-analysis <br />
 
 #### 🤖 AI Agent
+https://github.com/bigdata5911/livekit-voice-agent-odoo-19 <br />
+https://github.com/bigdata5911/schema-guided-reasoning <br />
+https://github.com/bigdata5911/litellm-deployment <br />
+https://github.com/bigdata5911/travel-planner-agent <br />
 https://github.com/bigdata5911/agent-lightning-automatic-prompt-optimization <br />
 https://github.com/bigdata5911/sales-agent <br />
 https://github.com/bigdata5911/Meeting-Room-Booking-AI-Agent <br />
@@ -34,7 +38,12 @@ https://github.com/cycle-sync-ai/ai-agent-architecture <br />
 https://github.com/cycle-sync-ai/cyclesyncai-voice-agent <br />
 
 #### 🚀 MCP Server
+https://github.com/bigdata5911/digitalcrew-max-mcp-server <br />
+https://github.com/bigdata5911/travel-assistant-mcp-server <br />
 https://github.com/cycle-sync-ai/outlook-mcp-server <br />
+
+#### Linkedin Automation
+https://github.com/bigdata5911/linkedin-actions-toolkit <br />
 
 #### 🪛 Scraper
 
